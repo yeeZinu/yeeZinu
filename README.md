@@ -3,7 +3,7 @@
 >  👋 Hi, I’m @yeeZinu  <br>
 >  👀 I’m interested in frontend  <br>
 >  🌱 I’m currently learning at SUNGKONGHOE UNIVERSITY. <br>
->  📫 How to reach me doglife222@gmail.com  <br>
+>  📫 How to reach me deviee9813@gmail.com  <br>
 ### 😀 My Blog
 >  [진우's 블로그](https://velog.io/@yeezinu_98)
 
